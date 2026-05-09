@@ -1,0 +1,3 @@
+name = "openoca"
+bin = "target/release/openoca"
+script = "build"
