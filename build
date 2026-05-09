@@ -1,2 +1,3 @@
+mkdir bin
 cargo build --release
 mv target/release/openoca bin/openoca
